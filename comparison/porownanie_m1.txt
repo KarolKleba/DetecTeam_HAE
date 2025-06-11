@@ -1,0 +1,79 @@
+### **Porównanie informacji z pliku i informacji referencyjnych**  
+
+#### **Wspólne elementy:**  
+(Oba źródła zawierają następujące informacje):  
+
+1. **Lokalizacja obrzęków:**  
+   - Twarz (np. wargi, powieki), kończyny, narządy płciowe.  
+   - Obrzęki narządów wewnętrznych (brzucha) i dróg oddechowych (krtań).  
+
+2. **Objawy związane z obrzękiem jamy brzusznej:**  
+   - Silne bóle brzucha, nudności, wymioty (potencjalnie prowadzące do hospitalizacji).  
+
+3. **Charakter ataków:**  
+   - Nagłe i nieprzewidywalne.  
+   - Mogą trwać od kilku do kilkudziesięciu godzin/dni (plikt: 24–72 h; źródło referencyjne: 3–5 dni).  
+
+4. **Czynniki wyzwalające:**  
+   - Stres, infekcje, urazy fizyczne, zabiegi chirurgiczne/stomatologiczne.  
+
+5. **Brak pokrzywki:**  
+   - Obrzękom w HAE zwykle nie towarzyszy pokrzywka (w obu źródłach to cecha odróżniająca od alergii).  
+
+6. **Ryzyko obrzęku krtani:**  
+   - Oba źródła podają, że jest to stan zagrażający życiu i wymagający pilnej interwencji.  
+
+---
+
+#### **Różnice:**  
+
+**A) Informacje występujące tylko w pliku, ale nie w źródle referencyjnym:**  
+
+1. **Konkretne kryteria czasowe dotyczące obrzęków:**  
+   - Plik podaje dokładny zakres trwania epizodów (24–72 h), podczas gdy źródło referencyjne jest mniej precyzyjne (3–5 dni).  
+
+2. **Nieskuteczność leków przeciwhistaminowych i sterydów:**  
+   - Plik podkreśla, że w HAE leki przeciwalergiczne i glikokortykosteroidy nie działają. W źródle referencyjnym nie ma tej informacji.  
+
+3. **Szczegóły dotyczące zmian skórnych:**  
+   - Plik wymienia *erythema marginatum* (rumień obrączkowaty, nie swędzący) jako dodatkowy objaw. W źródle referencyjnie jest tylko wzmianka o "zmianach skórnych" bez szczegółów.  
+
+4. **Badania diagnostyczne (laboratoryjne i genetyczne):**  
+   - Plik szczegółowo opisuje spadek poziomu C1-INH, aktywności C1-INH, białka C4 oraz mutację *SERPING1*. W źródle referencyjnym brak takich danych.  
+
+5. **Wywiad rodzinny jako istotny czynnik:**  
+   - Plik wyraźnie wskazuje na częste występowanie HAE u krewnych. W źródle referencyjnym brak wzmianki.  
+
+6. **Dodatkowe objawy neurologiczne/czuciowe:**  
+   - Źródło referencyjne wymienia "drętwienie i pieczenie", ale plik tego nie uwzględnia.  
+
+7. **Stopniowanie istotności cech diagnostycznych:**  
+   - Plik klasyfikuje cechy jako **wysoka/średnia/niska istotność**, z podziałem na laboratoryjne, kliniczne i genetyczne. W źródle referencyjnym nie ma takiego uszczegółowienia.  
+
+---  
+
+**B) Informacje występujące tylko w źródle referencyjnym, ale nie w pliku:**  
+
+1. **Częstotliwość ataków:**  
+   - Źródło podaje, że mogą występować "nawet kilkadziesiąt razy w roku". W pliku nie określono tego wprost.  
+
+2. **Możliwość występowania ataków bez wyraźnej przyczyny:**  
+   - W źródle podkreśla się, że ataki mogą pojawiać się samoistnie. Plik skupia się głównie na czynnikach wyzwalających (stres, infekcje).  
+
+3. **Wpływ leków:**  
+   - Źródło wspomina o "niektórych przyjmowanych lekach" jako czynniku prowokującym ataki. W pliku nie ma wzmianki na ten temat.  
+
+---
+
+### **Podsumowanie kluczowych różnic:**  
+
+| Kategoria | **Tylko w pliku** | **Tylko w źródle referencyjnym** |  
+|-----------|------------------|----------------------------------|  
+| **Diagnostyka** | Spadek C1-INH, C4, mutacja *SERPING1*, klasyfikacja istotności cech | Brak szczegółów |  
+| **Leczenie** | Nieskuteczność leków przeciwhistaminowych i sterydów | Niektóre leki mogą prowokować ataki |  
+| **Objawy dodatkowe** | *Erythema marginatum* | Drętwienie, pieczenie |  
+| **Cechy dziedziczenia** | Wywiad rodzinny silnie podkreślony | Brak wzmianki |  
+| **Charakterystyka ataków** | 24–72 h | 3–5 dni, "do kilkudziesięciu rocznie" |  
+
+**Wniosek:**  
+Plik zawiera znacznie więcej szczegółów diagnostycznych (laboratoryjnych, genetycznych) oraz analizę różnicującą HAE od innych schorzeń. Źródło referencyjne skupia się natomiast na ogólnym opisie objawów i czynników ryzyka, bez zagłębiania się w mechanizmy patofizjologiczne. Mimo różnic w detalach, oba źródła są spójne co do głównych cech HAE.

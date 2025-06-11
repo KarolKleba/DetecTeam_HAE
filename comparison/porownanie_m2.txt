@@ -1,0 +1,44 @@
+### **Porównanie informacji o HAE z pliku i podanych faktów**  
+
+#### **1. Informacje obecne w pliku, ale nieobecne w podanych faktach (źródło: plik)**  
+- **Lokalizacja obrzęków:**  
+  - W pliku wymieniono też jamę brzuszną (obrzęk ściany jelita) oraz krtani, co jest dokładniej opisane (w tym zagrożenie życia).  
+- **Czas trwania epizodów:**  
+  - Plik podaje dokładniej, że obrzęki trwają **24–72 godziny**, podczas gdy fakty mówią ogólnie o **3–5 dniach**.  
+- **Erythema marginatum (rumień obrączkowaty):**  
+  - Plik wspomina o tej zmianie skórnej, podczas gdy fakty jej nie wymieniają.  
+- **Badania laboratoryjne:**  
+  - Plik szczegółowo opisuje kluczowe parametry: **obniżony poziom C1-INH, jego aktywność i niski poziom C4**. Fakty tego nie zawierają.  
+- **Testy genetyczne:**  
+  - Plik wspomina o mutacji genu *SERPING1*, podczas gdy fakty nie poruszają kwestii diagnostyki genetycznej.  
+- **Leczenie:**  
+  - Plik podkreśla **nieskuteczność leków przeciwhistaminowych i sterydów**, co nie jest wymienione w faktach.  
+- **Istotność cech:**  
+  - Plik klasyfikuje objawy na **wysoką, średnią i niską istotność**, podczas gdy fakty nie dzielą ich pod tym kątem.  
+
+#### **2. Informacje obecne w podanych faktach, ale nieobecne w pliku (źródło: fakty)**  
+- **Drętwienie i pieczenie:**  
+  - Fakty wspominają o **drętwieniu, pieczeniu i zmianach skórnych**, podczas gdy plik ich nie wymienia.  
+- **Brak precyzji w lokalizacji:**  
+  - Fakty mówią ogólnie o **obrzękach kończyn, twarzy i narządów płciowych**, podczas gdy plik wymienia też **obrzęk krtani i jamy brzusznej**.  
+- **Częstotliwość ataków:**  
+  - Fakty podają, że mogą występować **nawet kilkadziesiąt razy w roku**, podczas gdy plik nie precyzuje liczby epizodów.  
+- **Leki jako czynniki wyzwalające:**  
+  - Fakty wspominają o **niektórych lekach**, podczas gdy plik wymienia głównie **stres, urazy, infekcje**.  
+
+#### **3. Wspólne punkty (obecne w obu źródłach)**  
+✅ **Obrzęki:**  
+- Skóry (twarz, kończyny), narządów wewnętrznych, dróg oddechowych.  
+✅ **Brak pokrzywki i świądu:**  
+- W obu źródłach podkreślono, że nie towarzyszą typowe objawy alergiczne.  
+✅ **Bóle brzucha i objawy żołądkowo-jelitowe:**  
+- Silne bóle, nudności, wymioty.  
+✅ **Czynniki wyzwalające:**  
+- Stres, infekcje, urazy fizyczne, zabiegi chirurgiczne.  
+✅ **Nagłe ataki:**  
+- Nieprzewidywalne, możliwe bez wyraźnej przyczyny.  
+
+### **Podsumowanie**  
+- **Plik zawiera więcej szczegółów diagnostycznych** (badania lab, genetyka, klasyfikacja objawów, czas trwania epizodów).  
+- **Fakty uzupełniają informacje o drętwieniu i pieczeniu**, a także podają przybliżoną częstotliwość ataków.  
+- **Oba źródła zgadzają się co do głównych objawów i czynników wyzwalających**, ale plik jest bardziej ukierunkowany na **diagnostykę różnicową i kliniczną specyfikację**.
