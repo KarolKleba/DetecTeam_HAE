@@ -1,0 +1,65 @@
+### **Porównanie wyników diagnozy HAE w plikach Gemini i DeepSeek**  
+
+#### **Podobieństwa (wspólne informacje w obu źródłach):**  
+1. **Nawracające obrzęki:**  
+   - Lokalizacja: twarz, kończyny, jama brzuszna, krtań.  
+   - Czas trwania: 24–72 godziny.  
+   - Brak pokrzywki i świądu (**Gemini**: brak u wszystkich oprócz jednego przypadku; **DeepSeek**: brak reakcji alergicznych).  
+   - Nieskuteczność leków przeciwhistaminowych i glikokortykosteroidów.  
+
+2. **Objawy żołądkowo-jelitowe:**  
+   - Silne bóle brzucha, nudności, wymioty, wzdęcia.  
+   - Mogą przypominać niedrożność jelit.  
+
+3. **Czynniki wyzwalające:**  
+   - Stres, urazy (w tym zabiegi stomatologiczne), infekcje.  
+
+4. **Wywiad rodzinny:**  
+   - Dziedziczny charakter choroby, występowanie podobnych objawów w rodzinie.  
+
+5. **Badania laboratoryjne:**  
+   - Obniżony poziom i aktywność inhibitora C1 esterazy (C1-INH).  
+   - Niski poziom C4.  
+   - Testy genetyczne (mutacja w *SERPING1* – w Gemini; brak nazwy genu w DeepSeek, ale wspomniana dziedziczność).  
+
+6. **Obrzęk krtani:**  
+   - Stan zagrażający życiu, wymagający interwencji medycznej.  
+
+7. **Klasyfikacja istotności cech:**  
+   - Wysoka istotność: C1-INH, C4, brak reakcji na leki przeciwalergiczne, dziedziczność.  
+   - Średnia: bóle brzucha, obrzęk krtani/jamy brzusznej, czynniki wyzwalające.  
+   - Niska: erythema marginatum (tylko w Gemini).  
+
+---
+
+### **Różnice między analizami:**
+(Zaznaczone, co występuje tylko w jednym źródle)
+
+#### **Tylko w Gemini:**  
+1. **Erythema marginatum** – rumień obrączkowaty, nieswędzący, który może występować w HAE, ale nie jest kluczowy do diagnozy.  
+2. **Dokładniejszy opis różnic względem grupy kontrolnej** – np. w grupie kontrolnej obrzęki są sporadyczne i alergiczne.  
+3. **Szczegółowe kroki diagnostyczne** – w Gemini wymienione są kolejne etapy:  
+   - Rozpoczęcie od wywiadu, wykluczenie alergii, ocena bólów brzucha, badania laboratoryjne (C1-INH, C4), ewentualne testy genetyczne.  
+4. **Dokładna lokalizacja obrzęków** – np. wargi, powieki (w DeepSeek jest tylko ogólny opis „twarz”).  
+
+#### **Tylko w DeepSeek:**  
+1. **Bardziej szczegółowa ocena unikalności cech HAE**  
+   - Wskazanie, że obrzęk jamy brzusznej i krtani występuje rzadko w innych chorobach.  
+   - Wyraźne rozróżnienie między HAE a chorobami nerek/wątroby/serca, które też mogą powodować obrzęki.  
+2. **Konkretne metody leczenia**  
+   - Wymienione leki hamujące bradykininę i koncentrat C1-INH (Gemini skupia się na diagnostyce, a nie terapii).  
+3. **Brak wspomnienia o erythema marginatum.**  
+4. **Mniej szczegółowy opis grupy kontrolnej** – w DeepSeek porównanie z innymi chorobami jest bardziej ogólne, nie ma podziału na `descriptions_sick` vs. `descriptions_control`.  
+
+---
+
+### **Podsumowanie różnic:**  
+| **Kategoria**          | **Tylko w Gemini**                    | **Tylko w DeepSeek**                  | **Wspólne** |
+|------------------------|---------------------------------------|---------------------------------------|-------------|
+| **Objawy**             | Erythema marginatum                 | -                                    | Obrzęki, ból brzucha, brak reakcji na leki przeciwhistaminowe |
+| **Diagnostyka**        | Szczegółowy opis różnic względem grupy kontrolnej | Konkretne wskazanie, które cechy są unikalne dla HAE | C1-INH, C4, wywiad rodzinny |
+| **Leczenie**           | -                                    | Leki hamujące bradykininę, koncentrat C1-INH | - |
+| **Czynniki wyzwalające**| -                                    | Mniejszy nacisk na konkretne czynniki | Stres, urazy, infekcje |
+| **Genetyka**           | Wspomnienie genu *SERPING1*         | Brak nazwy genu, ale dziedziczność   | Badania genetyczne |
+
+**Gemini** skupia się na **szczegółowej diagnostyce różnicowej**, podczas gdy **DeepSeek** kładzie większy nacisk na **unikające dla HAE cechy i metody leczenia**. Obie analizy potwierdzają te same kluczowe elementy: nawracające obrzęki, brak reakcji na standardowe leczenie alergiczne, niski poziom C1-INH i C4 oraz dziedziczny charakter choroby.

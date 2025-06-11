@@ -1,0 +1,99 @@
+**Główne cechy charakterystyczne HED (Hereditary Angioedema) na podstawie danych z `descriptions_sick`:**
+
+1. **Nawracające epizody obrzęków:**
+   - Obrzęki występują w różnych częściach ciała, w tym w kończynach, twarzy, jamie brzusznej, a czasem w krtani.
+   - Czas trwania obrzęków: 24-72 godziny.
+
+2. **Ból brzucha i objawy żołądkowo-jelitowe:**
+   - Silne bóle brzucha, które mogą przypominać niedrożność jelit.
+   - Nudności, wymioty, wzdęcia.
+
+3. **Brak reakcji na leki przeciwhistaminowe i glikokortykosteroidy:**
+   - Obrzęki nie ustępują po standardowym leczeniu alergii.
+
+4. **Czynniki wyzwalające:**
+   - Stres emocjonalny.
+   - Urazy fizyczne, w tym zabiegi stomatologiczne.
+   - Infekcje wirusowe.
+
+5. **Dziedziczność:**
+   - Występowanie podobnych objawów w rodzinie.
+
+6. **Niski poziom inhibitora C1 esterazy (C1-INH) i niski poziom C4:**
+   - Kluczowe wyniki laboratoryjne.
+
+7. **Brak objawów alergicznych:**
+   - Brak pokrzywki, świądu, reakcji alergicznych.
+
+**Porównanie z danymi z `descriptions_control` i określenie unikalnych cech HED:**
+
+1. **Unikalne cechy HED:**
+   - Brak reakcji na leki przeciwhistaminowe i glikokortykosteroidy.
+   - Dziedziczność i rodzinne występowanie obrzęków.
+   - Niski poziom inhibitora C1 esterazy (C1-INH) i niski poziom C4.
+   - Obrzęki krtani i jamy brzusznej, które są rzadkie w innych chorobach.
+
+2. **Częste w innych chorobach, ale nie unikalne dla HED:**
+   - Ból brzucha (może występować w wielu chorobach żołądkowo-jelitowych).
+   - Obrzęki kończyn (mogą występować w chorobach nerek, wątroby, serca).
+
+**Ocena istotności każdej cechy:**
+
+1. **Wysoka istotność:**
+   - Niski poziom inhibitora C1 esterazy (C1-INH) i niski poziom C4.
+   - Brak reakcji na leki przeciwhistaminowe i glikokortykosteroidy.
+   - Dziedziczność i rodzinne występowanie.
+
+2. **Średnia istotność:**
+   - Obrzęki krtani i jamy brzusznej.
+   - Czynniki wyzwalające (stres, urazy, infekcje).
+
+3. **Niska istotność:**
+   - Ból brzucha (może być mylący, bo występuje w wielu chorobach).
+
+**Podsumowanie, jak odróżnić HED od innych chorób:**
+
+1. **Kluczowe różnice:**
+   - HED charakteryzuje się brakiem reakcji na standardowe leczenie alergii (leki przeciwhistaminowe i glikokortykosteroidy).
+   - W HED obrzęki są niealergiczne, bez pokrzywki i świądu.
+   - Dziedziczność i niski poziom C1-INH oraz C4 są kluczowe do diagnozy.
+
+2. **Wnioski diagnostyczne:**
+   - Jeśli pacjent ma nawracające obrzęki bez pokrzywki, nie reaguje na leki przeciwhistaminowe i ma niski poziom C1-INH, należy podejrzewać HED.
+   - Konieczne jest przeprowadzenie badań genetycznych i laboratoryjnych (C1-INH, C4) w celu potwierdzenia diagnozy.
+
+3. **Podsumowanie:**
+   - HED to choroba genetyczna, która wymaga specjalistycznej diagnozy.
+   - Kluczowe jest odróżnienie HED od alergii i innych przyczyn obrzęków, aby wdrożyć odpowiednie leczenie (np. koncentrat C1-INH, leki hamujące bradykininę). 
+
+**Ostateczna odpowiedź w formie wymaganej:**
+
+- **Główne cechy HED:**
+  1. Nawracające obrzęki (24-72 godziny) w różnych częściach ciała, w tym w krtani i jamie brzusznej.
+  2. Brak reakcji na leki przeciwhistaminowe i glikokortykosteroidy.
+  3. Dziedziczność i rodzinne występowanie.
+  4. Niski poziom C1-INH i C4.
+  5. Czynniki wyzwalające: stres, urazy, infekcje.
+
+- **Unikalne dla HED:**
+  - Brak reakcji na leki przeciwalergiczne.
+  - Dziedziczność.
+  - Niski C1-INH i C4.
+
+- **Istotność:**
+  - Wysoka: C1-INH, C4, brak reakcji na leki, dziedziczność.
+  - Średnia: obrzęki krtani/jamy brzusznej, czynniki wyzwalające.
+  - Niska: ból brzucha.
+
+- **Podsumowanie:**
+  - HED różni się od alergii brakiem pokrzywki i brakiem reakcji na standardowe leczenie.
+  - Kluczowe jest badanie poziomu C1-INH i C4.
+  - Rozpoznanie wymaga wykluczenia innych przyczyn obrzęków (np. chorób nerek, wątroby, alergii). 
+
+**Wnioski diagnostyczne:**
+- HED to choroba genetyczna, którą należy podejrzewać przy nawracających obrzękach bez pokrzywki i braku reakcji na leki przeciwhistaminowe.
+- Konieczne są badania laboratoryjne (C1-INH, C4) i ocena wywiadu rodzinnego.
+- Leczenie skupia się na zapobieganiu atakom (np. leki hamujące bradykininę) i leczeniu ostrych epizodów (koncentrat C1-INH). 
+
+**Ostateczne rozróżnienie HED od innych chorób:**
+- Alergia: obrzęk z pokrzywką,

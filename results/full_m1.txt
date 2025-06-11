@@ -1,0 +1,76 @@
+## Analiza cech charakterystycznych Dziedzicznego Obrzęku Naczynioruchowego (HAE)
+
+Na podstawie analizy danych pacjentów z HAE (`descriptions_sick`) oraz grupy kontrolnej (`descriptions_control`), można wyodrębnić następujące cechy charakterystyczne dla HAE:
+
+**Cechy charakterystyczne HAE:**
+
+*   **Nawracające epizody obrzęków:**
+    *   **Opis:** Najbardziej podstawowa cecha. Obrzęki pojawiają się cyklicznie, a nie jednorazowo.
+    *   **Lokalizacja:** Obrzęki dotyczą głównie twarzy (wargi, powieki), kończyn (górnych i dolnych), jamy brzusznej i krtani. Obrzęk krtani jest szczególnie niebezpieczny i zagraża życiu.
+    *   **Czas trwania:** Epizody trwają zwykle od 24 do 72 godzin.
+    *   **Cechy odróżniające:** Obrzęki nie są związane z pokrzywką (z wyjątkiem jednego przypadku PAT-9809), nie towarzyszy im świąd, a leki przeciwhistaminowe i glikokortykosteroidy są nieskuteczne. Pacjenci często opisują uczucie napięcia skóry lub lekką tkliwość w miejscu obrzęku.
+    *   **W grupie kontrolnej:** Brak opisów nawracających obrzęków o takim charakterze. Obrzęki występują sporadycznie, np. po urazach, użądleniach, i są związane z alergią lub stanem zapalnym.
+
+*   **Brak pokrzywki:**
+    *   **Opis:** W większości przypadków HAE obrzękom nie towarzyszy pokrzywka.
+    *   **Cechy odróżniające:** To odróżnia HAE od typowych reakcji alergicznych, gdzie pokrzywka jest częstym objawem.
+    *   **W grupie kontrolnej:** Pokrzywka jest opisywana jako objaw alergii.
+
+*   **Nieskuteczność leków przeciwhistaminowych i glikokortykosteroidów:**
+    *   **Opis:** Standardowe leki stosowane w leczeniu reakcji alergicznych nie przynoszą ulgi w przypadku obrzęków HAE.
+    *   **Cechy odróżniające:** Wskazuje na mechanizm inny niż alergiczny.
+    *   **W grupie kontrolnej:** Leki przeciwhistaminowe są skuteczne w leczeniu pokrzywki i alergii.
+
+*   **Bóle brzucha:**
+    *   **Opis:** Częste objawy to silne bóle brzucha, nudności, wymioty, które mogą prowadzić do hospitalizacji z podejrzeniem niedrożności jelit. Diagnostyka obrazowa w tych przypadkach zwykle nie wykazuje uchwytnej przyczyny. Może występować płyn w jamie otrzewnowej.
+    *   **Cechy odróżniające:** Bóle brzucha są związane z obrzękiem ściany jelita.
+    *   **W grupie kontrolnej:** Bóle brzucha są opisywane w kontekście schorzeń takich jak zapalenie wyrostka robaczkowego, zatrucie pokarmowe, ostre zapalenie trzustki, ale nie są powiązane z nawracającymi obrzękami.
+
+*   **Wywiad rodzinny:**
+    *   **Opis:** Często występuje obciążający wywiad rodzinny, gdzie podobne objawy występują u rodzica, rodzeństwa lub innych krewnych.
+    *   **Cechy odróżniające:** Wskazuje na dziedziczne podłoże choroby.
+    *   **W grupie kontrolnej:** Brak obciążającego wywiadu rodzinnego w kierunku podobnych objawów.
+
+*   **Czynniki wyzwalające:**
+    *   **Opis:** Epizody mogą być wyzwalane przez stres emocjonalny, urazy (w tym zabiegi stomatologiczne), infekcje wirusowe.
+    *   **Cechy odróżniające:** Czynniki niespecyficzne, ale mogą pomóc w identyfikacji wzorców.
+    *   **W grupie kontrolnej:** Stres, urazy i infekcje mogą być czynnikami wyzwalającymi różne schorzenia, ale nie są powiązane z nawracającymi obrzękami o charakterze HAE.
+
+*   **Badania laboratoryjne:**
+    *   **Opis:** Obniżony poziom inhibitora C1 esterazy (C1-INH), zmniejszona aktywność C1-INH i obniżony poziom C4 w surowicy.
+    *   **Cechy odróżniające:** Kluczowe dla potwierdzenia diagnozy HAE.
+    *   **W grupie kontrolnej:** Parametry te są w normie.
+
+*   **Obrzęk krtani:**
+    *   **Opis:** Stan zagrażający życiu, który wymaga natychmiastowej interwencji medycznej (intubacja).
+    *   **Cechy odróżniające:** Charakterystyczny dla HAE, choć nie występuje u wszystkich pacjentów.
+    *   **W grupie kontrolnej:** Brak opisów obrzęku krtani o takim podłożu.
+
+*   **Erythema Marginatum:**
+    *   **Opis:** Rumień obrączkowaty. Zmiany skórne rumieniowe, nie swędzące.
+    *   **Cechy odróżniające:** Nie jest to cecha konieczna do rozpoznania, ale często występuje.
+    *   **W grupie kontrolnej:** Nie występuje.
+
+*   **Testy genetyczne:**
+    *   **Opis:** Potwierdzają mutację w genie *SERPING1* (najczęściej).
+    *   **Cechy odróżniające:** Rozstrzygające w diagnostyce.
+    *   **W grupie kontrolnej:** Brak mutacji.
+
+**Istotność cech:**
+
+*   **Wysoka:** Obniżony poziom C1-INH, zmniejszona aktywność C1-INH, obniżony poziom C4, mutacja w genie *SERPING1*, nawracające epizody obrzęków, brak pokrzywki, nieskuteczność leków przeciwhistaminowych i glikokortykosteroidów, obrzęk krtani.
+*   **Średnia:** Wywiad rodzinny, bóle brzucha.
+*   **Niska:** Czynniki wyzwalające, erythema marginatum.
+
+**Wnioski diagnostyczne:**
+
+Aby odróżnić HAE od innych schorzeń, należy wziąć pod uwagę następujące aspekty:
+
+1.  **Rozpocząć od wywiadu:** Wywiad rodzinny, charakter obrzęków (lokalizacja, czas trwania, brak świądu i pokrzywki).
+2.  **Wykluczyć alergię:** Brak reakcji na leki przeciwhistaminowe i glikokortykosteroidy.
+3.  **Zwrócić uwagę na bóle brzucha:** Nawracające bóle brzucha bez uchwytnej przyczyny w diagnostyce obrazowej.
+4.  **Potwierdzić diagnozę badaniami laboratoryjnymi:** Kluczowe jest oznaczenie poziomu i aktywności C1-INH oraz poziomu C4.
+5.  **W przypadku wątpliwości wykonać testy genetyczne:** Potwierdzenie mutacji w genie *SERPING1*.
+6.  **Pamiętać o obrzęku krtani:** Stan zagrażający życiu, który wymaga natychmiastowej interwencji.
+
+Podsumowując, HAE jest schorzeniem, które można podejrzewać na podstawie charakterystycznego wywiadu i objawów, ale diagnozę należy potwierdzić badaniami laboratoryjnymi i/lub genetycznymi. Odpowiednie rozpoznanie i leczenie jest kluczowe ze względu na potencjalne zagrożenie życia w przypadku obrzęku krtani.
