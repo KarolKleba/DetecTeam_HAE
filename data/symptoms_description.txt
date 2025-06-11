@@ -1,0 +1,14 @@
+obrzęki skóry: OS
+obrzęki narządów wewnętrznych: OW
+bóle brzucha: BB
+nudności i wymioty: NDN
+drętwienie: DT
+pieczenie: PC
+pokrzywka lub świąd: PK
+alergia: AL
+nagły atak obrzęków: NG
+uraz fizyczny: UF
+infekcja wirusowa: IW
+nieskuteczność leków alergicznych: LK
+występowanie choroby w rodzinie: WS
+duszności: DS
